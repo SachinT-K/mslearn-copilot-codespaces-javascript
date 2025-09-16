@@ -27,7 +27,7 @@ const siteProps = {
   name: "Sachin T K",
   title: "Full Stack Web Developer",
   email: "sachintk97@gmail.com",
-  gitHub: "microsoft",
+  gitHub: "SachinT-K",
   instagram: "mr.sa_chinn",
   linkedIn: "sachin-t-k",
   medium: "",
